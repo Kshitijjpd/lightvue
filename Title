@@ -1,0 +1,10 @@
+ <lv-textarea
+     :bottom-bar="true"
+     :showLimit="true"
+     :autoResize="true"
+     :maxLength="100"
+     :rows="3"
+     placeholder="Textarea Placeholder"
+     label="Textarea Label"
+     placeholder-color="rgba(0, 0, 0, 0.3)"
+ />
